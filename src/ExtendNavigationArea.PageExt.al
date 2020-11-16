@@ -3,9 +3,9 @@ pageextension 50215 "ExtendNavigationArea" extends "Order Processor Role Center"
 
     actions
     {
-        addlast(Sections)
+        addlast(embedding)
         {
-            group("My Customers")
+            group("KEJ INFO")
             {
                 action("Customer Bank Account List")
                 {
