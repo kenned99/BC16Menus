@@ -2,6 +2,7 @@ pageextension 50217 "KEJ ROLE" extends "trm Small Bus. Role Center"
 {
     actions
     {
+        //Tilføjer i Purchase
         addlast(PurchaseGroup)
         {
             action("kej Test")
@@ -15,32 +16,21 @@ pageextension 50217 "KEJ ROLE" extends "trm Small Bus. Role Center"
                 action("Sales Document Entity")
                 {
                     ApplicationArea = All;
-                    RunObject = page "Sales Document Entity";
+                    RunObject = page "KEJPAGELIST";
                 }
             }
         }
-        addlast(embedding)
-        {
-            group("kej test 3")
-            {
-                action(klsdk)
-                {
-                    ApplicationArea = All;
-                    RunObject = page "Sales Document Entity";
-                }
-            }
-        }
-        //Tilføjer efter purchase
+        //Opretter min egen menu efter purchase
         addafter(PurchaseGroup)
         {
             //Navn på min menu
-            group("KEJ1")
+            group(KEJ)
             {
                 //Navn på min undermenu
-                group("KEJ2")
+                group(ER)
                 {
                     //Navn på under sub menu
-                    action(KEJ3)
+                    action(AWESOME)
                     {
                         ApplicationArea = All;
                         RunObject = page "Sales Document Entity";
