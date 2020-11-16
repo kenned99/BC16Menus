@@ -36,7 +36,7 @@ pageextension 50217 "KEJ ROLE" extends "trm Small Bus. Role Center"
                         RunObject = page "Sales Document Entity";
                     }
                 }
-                action(pis)
+                action("HEJ HEJ HEJ JEG HEDDER KEJ")
                 {
                     ApplicationArea = All;
                     RunObject = page "Sales Document Entity";
