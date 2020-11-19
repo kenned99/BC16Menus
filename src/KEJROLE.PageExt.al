@@ -23,19 +23,23 @@ pageextension 50217 "KEJ ROLE" extends "trm Small Bus. Role Center"
         //Opretter min egen menu efter purchase
         addafter(PurchaseGroup)
         {
-            //Navn på min menu
+            //Navn på min menu - 1
             group(KEJ)
             {
-                //Navn på min undermenu
+                //Navn på min undermenu - 2
+                caption = 'KEJ';
                 group(ER)
                 {
-                    //Navn på under sub menu
-                    action(AWESOME)
+                    //Navn på under sub menu - 3
+                    caption = 'KEJ';
+                    action(SEJ)
                     {
+                        Caption = 'SEJ';
                         ApplicationArea = All;
                         RunObject = page "Sales Document Entity";
                     }
                 }
+                //Navn på undermenu - 2
                 action("HEJ HEJ HEJ JEG HEDDER KEJ")
                 {
                     ApplicationArea = All;

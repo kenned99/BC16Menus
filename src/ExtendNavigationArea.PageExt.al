@@ -21,6 +21,7 @@ pageextension 50215 "ExtendNavigationArea" extends "Order Processor Role Center"
                 //sub-menu
                 group("Sales Documents")
                 {
+                    Caption = '';
                     action("Sales Document Entity")
                     {
                         ApplicationArea = All;

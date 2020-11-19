@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Menus">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1720109550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KEJTABLE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KEJTABLE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1720109550 - Field 949215307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KEJTABLE - Field No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1720109550 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KEJTABLE - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1720109550 - Field 3552705779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desc</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KEJTABLE - Field Desc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2160516903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KEJPAGELIST</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KEJPAGELIST - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1118688717 - Action 1926953710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>KEJ INFO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtendNavigationArea - Action KEJ INFO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1118688717 - Action 1658940635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Customer Bank Account List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtendNavigationArea - Action Customer Bank Account List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1118688717 - Action 2393537757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Customer Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtendNavigationArea - Action Customer Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1118688717 - Action 2842156528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtendNavigationArea - Action Sales Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1118688717 - Action 777290960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Sales Document Entity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtendNavigationArea - Action Sales Document Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1118688717 - Action 1402845854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Sales Document Line Entity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtendNavigationArea - Action Sales Document Line Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2006390812 - Action 4215526198 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3927161195">
+          <source>kej Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension KEJ ROLE - Action kej Test - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2006390812 - Action 2690226052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3927161195">
+          <source>kej test 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension KEJ ROLE - Action kej test 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2006390812 - Action 777290960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3927161195">
+          <source>Sales Document Entity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension KEJ ROLE - Action Sales Document Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2006390812 - Action 1190825056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3927161195">
+          <source>KEJ</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension KEJ ROLE - Action KEJ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2006390812 - Action 1551117089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3927161195">
+          <source>ER</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension KEJ ROLE - Action ER - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2006390812 - Action 563618889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3927161195">
+          <source>AWESOME</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension KEJ ROLE - Action AWESOME - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2006390812 - Action 1073885251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3927161195">
+          <source>HEJ HEJ HEJ JEG HEDDER KEJ</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension KEJ ROLE - Action HEJ HEJ HEJ JEG HEDDER KEJ - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

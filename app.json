@@ -40,5 +40,7 @@
   ],
   "contextSensitiveHelpUrl": "https://Menus.com/help/",
   "showMyCode": true,
-  "runtime": "5.0"
+  "runtime": "5.0",
+  "features": [ "TranslationFile", "GenerateCaptions" ]
+
 }
